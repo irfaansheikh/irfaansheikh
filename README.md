@@ -9,6 +9,7 @@
 
 ![GitHub Snake Light](https://raw.githubusercontent.com/irfaansheikh/irfaansheikh/output/github-snake.svg#gh-light-mode-only)
 ![GitHub Snake Dark](https://raw.githubusercontent.com/irfaansheikh/irfaansheikh/output/github-snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake animation](https://raw.githubusercontent.com/irfaansheikh/irfaansheikh/output/github-contribution-grid-snake.gif)
 
 
 # 💻 Tech Stack:
