@@ -7,6 +7,8 @@
 - 😄 Pronouns: He/Him/His.
 - ⚡ Fun fact: I want to learn anything and everything.
 
+![GitHub Snake Light](https://raw.githubusercontent.com/irfaansheikh/irfaansheikh/output/github-snake.svg)
+
 ![snake gif](https://github.com/irfaansheikh/irfaansheikh/blob/output/github-snake.svg)
 
 # 💻 Tech Stack:
